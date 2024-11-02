@@ -21,6 +21,7 @@ h2,
 h3 {
     font-family: var(--secondary-font);
     color: var(--primary-color);
+    text-transform: uppercase;
 }
 
 .sub-heading-color {
@@ -28,6 +29,10 @@ h3 {
 }
 
 
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
 
 /* Navbar */
 #navbar {
@@ -37,6 +42,11 @@ h3 {
 
 #navbar .logo {
     width:30px;
+}
+
+/* Header */
+#header .lead {
+font-family: var(--secondary-font);
 }
 
 /* Grid visualisation css for testing */
