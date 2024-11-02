@@ -27,6 +27,18 @@ h3 {
     color:var(--hightlight-color);
 }
 
+
+
+/* Navbar */
+#navbar {
+    background-color: var(--primary-color);
+
+}
+
+#navbar .logo {
+    width:30px;
+}
+
 /* Grid visualisation css for testing */
 
 
