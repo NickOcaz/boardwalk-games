@@ -27,6 +27,10 @@ h3 {
     color:var(--hightlight-color);
 }
 
+/* Grid visualisation css for testing */
+
+
+/*
 .container,
 .row {
     border: 2px solid black;
@@ -36,3 +40,4 @@ h3 {
     border: 2px solid white;
     background-color: lightgray;
 }
+*/
