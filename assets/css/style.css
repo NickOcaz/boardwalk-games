@@ -110,6 +110,9 @@ h2 {
     font-size: 1.9rem;
 }
 
+#contact .table-dark * {
+background-color: transparent;
+}
 /* grid visualisation CSS for testing */
 
 /* .container,
